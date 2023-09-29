@@ -1,0 +1,14 @@
+D:\Programação\TesteJudge\Teste16\Teste16\Teste16\obj\Debug\net7.0\Teste16.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programação\TesteJudge\Teste16\Teste16\Teste16\obj\Debug\net7.0\Teste16.AssemblyInfoInputs.cache
+D:\Programação\TesteJudge\Teste16\Teste16\Teste16\obj\Debug\net7.0\Teste16.AssemblyInfo.cs
+D:\Programação\TesteJudge\Teste16\Teste16\Teste16\obj\Debug\net7.0\Teste16.csproj.CoreCompileInputs.cache
+D:\Programação\TesteJudge\Teste16\Teste16\Teste16\bin\Debug\net7.0\Teste16.exe
+D:\Programação\TesteJudge\Teste16\Teste16\Teste16\bin\Debug\net7.0\Teste16.deps.json
+D:\Programação\TesteJudge\Teste16\Teste16\Teste16\bin\Debug\net7.0\Teste16.runtimeconfig.json
+D:\Programação\TesteJudge\Teste16\Teste16\Teste16\bin\Debug\net7.0\Teste16.dll
+D:\Programação\TesteJudge\Teste16\Teste16\Teste16\bin\Debug\net7.0\Teste16.pdb
+D:\Programação\TesteJudge\Teste16\Teste16\Teste16\obj\Debug\net7.0\Teste16.dll
+D:\Programação\TesteJudge\Teste16\Teste16\Teste16\obj\Debug\net7.0\refint\Teste16.dll
+D:\Programação\TesteJudge\Teste16\Teste16\Teste16\obj\Debug\net7.0\Teste16.pdb
+D:\Programação\TesteJudge\Teste16\Teste16\Teste16\obj\Debug\net7.0\Teste16.genruntimeconfig.cache
+D:\Programação\TesteJudge\Teste16\Teste16\Teste16\obj\Debug\net7.0\ref\Teste16.dll

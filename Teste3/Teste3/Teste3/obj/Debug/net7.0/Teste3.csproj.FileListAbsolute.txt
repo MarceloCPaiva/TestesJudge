@@ -1,0 +1,14 @@
+D:\Programação\TesteJudge\Teste3\Teste3\Teste3\bin\Debug\net7.0\Teste3.exe
+D:\Programação\TesteJudge\Teste3\Teste3\Teste3\bin\Debug\net7.0\Teste3.deps.json
+D:\Programação\TesteJudge\Teste3\Teste3\Teste3\bin\Debug\net7.0\Teste3.runtimeconfig.json
+D:\Programação\TesteJudge\Teste3\Teste3\Teste3\bin\Debug\net7.0\Teste3.dll
+D:\Programação\TesteJudge\Teste3\Teste3\Teste3\bin\Debug\net7.0\Teste3.pdb
+D:\Programação\TesteJudge\Teste3\Teste3\Teste3\obj\Debug\net7.0\Teste3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programação\TesteJudge\Teste3\Teste3\Teste3\obj\Debug\net7.0\Teste3.AssemblyInfoInputs.cache
+D:\Programação\TesteJudge\Teste3\Teste3\Teste3\obj\Debug\net7.0\Teste3.AssemblyInfo.cs
+D:\Programação\TesteJudge\Teste3\Teste3\Teste3\obj\Debug\net7.0\Teste3.csproj.CoreCompileInputs.cache
+D:\Programação\TesteJudge\Teste3\Teste3\Teste3\obj\Debug\net7.0\Teste3.dll
+D:\Programação\TesteJudge\Teste3\Teste3\Teste3\obj\Debug\net7.0\refint\Teste3.dll
+D:\Programação\TesteJudge\Teste3\Teste3\Teste3\obj\Debug\net7.0\Teste3.pdb
+D:\Programação\TesteJudge\Teste3\Teste3\Teste3\obj\Debug\net7.0\Teste3.genruntimeconfig.cache
+D:\Programação\TesteJudge\Teste3\Teste3\Teste3\obj\Debug\net7.0\ref\Teste3.dll
